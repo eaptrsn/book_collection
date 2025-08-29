@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2025-08-29 18:20:48.129172000 Z
+    - 2025-08-29 18:20:48.129172000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Test 1
+    - 2025-08-29 18:27:21.918932000 Z
+    - 2025-08-29 18:27:21.918932000 Z
+  - - 2
+    - Test 2
+    - 2025-08-29 18:27:30.981109000 Z
+    - 2025-08-29 18:27:30.981109000 Z
