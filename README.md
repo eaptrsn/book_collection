@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+EXAMPLE EDITS FOR DEV->TEST->MAIN PIPELINE
